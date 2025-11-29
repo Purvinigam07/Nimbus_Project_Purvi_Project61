@@ -1,0 +1,13 @@
+# compiled binaries
+vaccination.exe
+vaccination
+*.o
+*.obj
+
+# runtime files
+citizens.txt
+stock.txt
+
+# editor files
+.vscode/
+*.swp
